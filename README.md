@@ -2,5 +2,14 @@
 Fruta Pendulum group 3 project <br> 
 Group project:  <br> 
 All group files and code will be posted here in regards to the project<br>
-Go to office hours: Monday (2-4), Wednesday (2-4) 
+
+<b><strong>Project Deliverables</strong></b><br> 
+-Present project and build a webpage that contains all deliverables. <br> 
+-Mathematical model of the system. <br> 
+-control system should be provided via simulink, stateflow, or other highlievel programming language. <br> 
+-System will have a simulation with the control system and mathematical model by connecting Coppelia sim to 
+ MATLAB, simulink, or whatever programming landscape is used<br> 
+
+
+
 
