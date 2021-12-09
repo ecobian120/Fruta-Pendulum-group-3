@@ -10,6 +10,8 @@ All group files and code will be posted here in regards to the project<br>
 -System will have a simulation with the control system and mathematical model by connecting Coppelia sim to 
  MATLAB, simulink, or whatever programming landscape is used<br> 
 
+# Introduction
 
+For this project we will be designing a mathematical model used to design a self balancing Furuta Pendulum. For this design Coppelia Sim, MATLAB and Simulink will be used for the software programs.
 
 
