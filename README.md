@@ -14,4 +14,11 @@ All group files and code will be posted here in regards to the project<br>
 
 For this project we will be designing a mathematical model used to design a self balancing Furuta Pendulum. For this design Coppelia Sim, MATLAB and Simulink will be used for the software programs.
 
+# System Model
+
+
+# Simulink Model
+
+
+
 
