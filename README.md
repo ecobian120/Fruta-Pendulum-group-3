@@ -2,6 +2,7 @@
 Fruta Pendulum Group 3 Project <br> 
 Group project:  <br> 
 Group Members: Aaron Dizon, Efrain Cobain, Michael Korhummel
+
 All group files and code will be posted here in regards to the project<br>
 
 <b><strong>Project Deliverables</strong></b><br> 
