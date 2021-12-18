@@ -31,6 +31,7 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 # Logical Diagram
 
+# Mathematical Model 
 
 # System Model
 
@@ -42,6 +43,8 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 # References 
 
 Nise, Norman S. Control Systems Engineering. 7th ed. <br> 
+
+"Inverted Pendulum: System Modeling." Control Tutorials, ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling. <br> 
 
 
 
