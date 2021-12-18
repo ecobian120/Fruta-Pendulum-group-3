@@ -37,7 +37,8 @@ Figure 2. Operational Viewpoint
 
 
 # Logical Diagram
-![Logical Viewpoint](https://user-images.githubusercontent.com/79562109/146626713-f5d5a35f-02cc-44f7-8e00-317b8bf83435.PNG)
+![Logia_viewpoint](https://user-images.githubusercontent.com/79562109/146627403-b19bc9d6-abdc-4b57-ae75-175a6a4ba044.PNG)
+
 
 
 # Mathematical Model 
@@ -80,7 +81,9 @@ Nise, Norman S. Control Systems Engineering. 7th ed. <br>
 
 "Inverted Pendulum: System Modeling." Control Tutorials, ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum§ion=SystemModeling. <br> 
 
+Videos from Lectures Hasan Bank<br>  
 
+Power Slides from Module 1,2,3,4,5,6<br> 
 
 
 
