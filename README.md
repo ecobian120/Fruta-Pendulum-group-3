@@ -40,6 +40,10 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 ![Simulink Model Based on Matlab Code](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/FurutaMatLabSimulink/FurutaSimulink.gif?raw=true)
 
+# Solidworks Model
+
+![Solidworks Model](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/solidworks%20simulation/SolidworksModel.gif)
+
 # Conclusion 
 
 # References 
