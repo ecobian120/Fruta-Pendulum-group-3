@@ -34,6 +34,8 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 # Mathematical Model 
 
+![Mathematical Model](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/MathModel.pdf)
+
 # System Model
 
 # Simulink Model (Based On MatLab Code)
