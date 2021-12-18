@@ -35,6 +35,7 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 # System Model
 
+![Simulink Model Based on Matlab Code](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/FurutaMatLabSimulink/FurutaSimulink.gif?raw=true)
 
 # Simulink Model
 
