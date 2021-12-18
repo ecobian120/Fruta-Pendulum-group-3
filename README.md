@@ -1,5 +1,6 @@
 # Fruta-Pendulum-group-3
 Fruta Pendulum Group 3 Project <br> 
+Group project:  <br> 
 Group Members: Aaron Dizon, Efrain Cobain, Michael Korhummel
 
 All group files and code will be posted here in regards to the project<br>
@@ -34,7 +35,7 @@ Figure 2. Operational Viewpoint
 
 
 # Logical Diagram
-![Logical Viewpoint](https://user-images.githubusercontent.com/79562109/146626366-2c5d2a41-1769-4ba2-92d0-7b02d3ecdbfc.PNG)
+![Logical Viewpoint](https://user-images.githubusercontent.com/79562109/146626713-f5d5a35f-02cc-44f7-8e00-317b8bf83435.PNG)
 
 
 # Mathematical Model 
