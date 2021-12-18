@@ -68,6 +68,8 @@ Figure 6. Solidworks Simulation
 
 # Conclusion 
 
+An operational viewpoint was defined for the Furuta Pendulum. Thus we created a logical diagram to show the procedural steps for how the system should work. With this logical diagram we were able to derive a mathematical model to use for the two degrees of freedom in our system. These degrees of freedom were the X-Y plane and the Z plane. For our equations of motion we used the equations used for conservation of energy and center of mass. With the mathematical model used, the variables and constants were placed into Matlab and Solidworks to create a 3D simulation of the system.
+
 # References 
 
 Nise, Norman S. Control Systems Engineering. 7th ed. <br> 
