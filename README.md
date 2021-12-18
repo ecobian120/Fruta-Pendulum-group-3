@@ -10,6 +10,9 @@ All group files and code will be posted here in regards to the project<br>
 -control system should be provided via simulink, stateflow, or other highlievel programming language. <br> 
 -System will have a simulation with the control system and mathematical model by connecting Coppelia sim to 
  MATLAB, simulink, or whatever programming landscape is used<br> 
+ ![image](https://user-images.githubusercontent.com/79562109/146627042-4f8c8ce4-f103-458f-ba28-5b8e62bf6503.png)
+
+ 
 
 # Introduction
 
