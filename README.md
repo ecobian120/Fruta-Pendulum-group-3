@@ -35,6 +35,8 @@ Figure 2. Operational Viewpoint
 
 
 # Logical Diagram
+![Logical Viewpoint](https://user-images.githubusercontent.com/79562109/146626366-2c5d2a41-1769-4ba2-92d0-7b02d3ecdbfc.PNG)
+
 
 # Mathematical Model 
 
