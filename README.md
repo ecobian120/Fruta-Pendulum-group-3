@@ -22,8 +22,11 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 ![Figure_1 Operational Viewpoint](https://user-images.githubusercontent.com/79562109/146608740-2a233285-b23f-4b86-9737-656b88f5b718.PNG)
 
+Figure 1. Operational Viewpoint
+
 ![Operational_viewpoint_figure_2](https://user-images.githubusercontent.com/79562109/146608751-5404d432-54be-410e-a669-68f874448658.PNG)
 
+Figure 2. Operational Viewpoint
 
 
 
@@ -37,7 +40,13 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 ![Mathematical Model](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/MathematicalModel.png?raw=true)
 
+Figure 3. Mathematical Model
+
 ![KinecticEquations](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/KinecticAndMotionEquations.png?raw=true)
+
+![KinecticEquationsPart2](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/KinecticAndMotionEquationsPart2.png?raw=true)
+
+Table 1. Kinectic And Motion Equations
 
 # System Model
 
@@ -45,9 +54,13 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 ![Simulink Model Based on Matlab Code](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/FurutaMatLabSimulink/FurutaSimulink.gif?raw=true)
 
+Figure 4. Matlab/Simulink Model Simulation
+
 # Solidworks Model
 
 ![Solidworks Model](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/solidworks%20simulation/SolidworksModel.gif)
+
+Figure 5. Solidworks Simulation
 
 # Conclusion 
 
