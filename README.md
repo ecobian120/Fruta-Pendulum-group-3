@@ -18,7 +18,7 @@ All group files and code will be posted here in regards to the project<br>
 
 For this project we will be designing a mathematical model used to design a self balancing Furuta Pendulum. For this design SolidWorks, MATLAB and Simulink will be used for the software programs.<br> 
 
-For the project, an inverted pendulum will be develped and control the pendulum arm in its upright position by apply a torque to respond to a distrubance through a motor in the rotary arm. The repository will contain all of the devliverables as mentioned above. 
+For the project, an inverted pendulum will be developed and control the pendulum arm in its upright position by apply a torque to respond to a disturbance through a motor in the rotary arm. The repository will contain all of the deliverables as mentioned above. 
 
 # Operational Viewpoint
 
