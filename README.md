@@ -50,17 +50,21 @@ Table 1. Kinectic And Motion Equations
 
 # System Model
 
+![SystemModel](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/FurutaMatLabSimulink/SystemSimulinkModel.png?raw=true)
+
+Figure 4. System/Simulink Model
+
 # Simulink Model (Based On MatLab Code)
 
 ![Simulink Model Based on Matlab Code](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/FurutaMatLabSimulink/FurutaSimulink.gif?raw=true)
 
-Figure 4. Matlab/Simulink Model Simulation
+Figure 5. Matlab/Simulink Model Simulation
 
 # Solidworks Model
 
 ![Solidworks Model](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/solidworks%20simulation/SolidworksModel.gif)
 
-Figure 5. Solidworks Simulation
+Figure 6. Solidworks Simulation
 
 # Conclusion 
 
