@@ -37,6 +37,13 @@ For the project, an inverted pendulum will be develped and control the pendulum 
 
 # Simulink Model
 
+# Conclusion 
+
+# References 
+
+Nise, Norman S. Control Systems Engineering. 7th ed. <br> 
+
+
 
 
 
