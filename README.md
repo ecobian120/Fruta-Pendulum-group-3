@@ -49,7 +49,7 @@ Figure 3. Mathematical Model
 
 ![KinecticEquations](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/KinecticAndMotionEquations.png?raw=true)
 
-![KinecticEquationsPart2](https://github.com/ecobian120/Fruta-Pendulum-group-3/blob/main/ReportAndReportImages/KinecticAndMotionEquationsPart2.png?raw=true)
+![Capture](https://user-images.githubusercontent.com/79562109/146629498-676c0da7-f642-433f-ba93-0a5655f9f96c.PNG)
 
 Table 1. Kinectic And Motion Equations
 
